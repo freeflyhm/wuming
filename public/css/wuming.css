@@ -1,0 +1,26 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+html {
+  -ms-touch-action: none;
+}
+
+body {
+  font-family: 'Microsoft YaHei';
+  background-color: #eee;
+}
+
+#wu-ue table {
+  background-color: #fff;
+}
+
+#wu-ue td {
+  padding: 0 10px;
+}
+
+#wu-ue p {
+  margin: 0;
+}

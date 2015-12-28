@@ -1,4 +1,4 @@
 module.exports = {
-    db: 'wumingDB', 
-    host: 'localhost'
+    host: 'db',
+    db: 'wumingDB'
 };

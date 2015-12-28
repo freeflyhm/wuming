@@ -6,7 +6,7 @@ WORKDIR /wuming
 
 # Install app dependencies
 COPY . /wuming
-RUN npm install
+#RUN npm install
 
 EXPOSE 80
 CMD [ "npm", "start" ]
